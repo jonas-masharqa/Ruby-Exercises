@@ -1,0 +1,6 @@
+def hello(pretty)
+   "Hello"+" "+ pretty +" "+"you're looking cute today!"
+   end
+
+hello("Luca")
+ => "Hello Luca you're looking cute today!
